@@ -1,10 +1,9 @@
-# AMIA 2019 Informatics Summit
-## Workshop W07: Hands-On Full Life Cycle Data Science Workshop
-### Presenters: Lisiane Pruinelli, Steve Johnson and Tamara Winden
+# Nursing Knowledge Big Data Science 2019
+## Data Science Workshop
 
 
-##### Note: These instructions are also available (with screenshots) in the "Workshop W07 - Instructions to Install Jupyter Notebook.pdf"
-Thank you for your interest in the workshop.  This is a “hands-on” workshop which means that you will need to bring a laptop so that you can follow along, execute code and do short exercises as we work through aspects of a data science project.  You can either 1) run it in the cloud or 2) install the environment on your laptop and execute it locally.  
+##### Note: These instructions are also available (with screenshots) in the "WS2019 - Track1 - Instructions to Install Jupyter Notebook.pdf"
+Thank you for your interest in the workshop.  This is a “hands-on” workshop which means that you will need to bring a laptop so that you can follow along, execute code and do short exercises as we work through aspects of a data science project.  You can either 1) run it in the cloud (Highly Recommended) or 2) install the environment on your laptop and execute it locally.  
 
 1.	The advantage to running the environment in the cloud is that there is nothing to install!  We will be using the Google Colab environment.  One disadvantage is that the environment will shut down after 12 hours of use.  That is fine for the purpose of this workshop, but probably is not what you’d want to use for a production data science environment.
 
@@ -17,7 +16,7 @@ This is probably the easiest way to get started. You can access Jupyter notebook
 To access the system, go to the following URL in a browser (Chrome works best):
 https://colab.research.google.com/  This will launch a new virtual environment where you can play with the workshop notebooks.  Make sure you have a Google login and are logged into the Colab service.  Check to make sure the environment is working by doing the following:
 
-1.	When you go https://colab.research.google.com, a pop-up screen will ask you which notebook to open.  Click the “GITHUB” tab and then put in joh06288 for the Github URL and find the AMIA2019_W07 repository and select the “Check_Environment” notebook:
+1.	When you go https://colab.research.google.com, a pop-up screen will ask you which notebook to open.  Click the “GITHUB” tab and then put in "nkbds" for the Github URL and find the "ws2019_track1" repository and select the “Check_Environment” notebook:
 
 2.	Navigate to the main menu and select “Runtime -> Run all”.  You will be warned that the notebook is not from Google and that your runtimes will be reset.  Pick “Run anyway” and “Yes” to run the notebook. If 
 
@@ -43,9 +42,9 @@ Check to make sure the environment is installed correctly by doing the following
 
 2.	Retrieve the workshop content from the github server using the following command:
 
-```git clone https://github.com/joh06288/AMIA2019_W07.git```
+```git clone https://github.com/nkbds/ws2019_track1.git```
 
-3.	From the browser window that Jupyter notebook opened for you when it started, navigate to your workdir and go into the AMIA2019_W07 folder.  
+3.	From the browser window that Jupyter notebook opened for you when it started, navigate to your workdir and go into the ws2019_track1 folder.  
 
 4.	Select the “Check_Environment” notebook. A new browser window will open up.
 
